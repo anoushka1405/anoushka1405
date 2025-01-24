@@ -4,6 +4,7 @@
 - 💞️ I’m looking learn and grow my technical skills
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I'm a Trinity grade 6 certified pianist!
+- Connect to me through <a href=linkedin https://www.linkedin.com/in/anoushka-gupta-331163319/></a>
 
 <!---
 anoushka1405/anoushka1405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
