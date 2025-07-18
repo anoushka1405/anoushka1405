@@ -25,7 +25,8 @@
 
 ### 📊 GitHub Stats
 
-![Anoushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anoushka1405&show_icons=true&theme=radical&hide=contribs,prs)
+![Anoushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anoushka1405&show_icons=true&hide=issues)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anoushka1405&layout=compact&theme=radical)
 
@@ -35,6 +36,7 @@
 
 If you’re building something meaningful, or just want to learn together – I’m always up for a fun collab 🤝  
 Reach out via [LinkedIn](https://www.linkedin.com/in/anoushka-gupta-331163319/) or drop a message here!
+> "Building thoughtful tech, one project at a time." — Anoushka 💫
 
 
 <!---
