@@ -4,10 +4,10 @@
 
 - 🎯 Passionate about **Data Science**, **Full-Stack Development**, and **Machine Learning**
 - 🔍 Currently learning:
-  - 🐍 **Python**: Pandas, NumPy, Matplotlib
   - 📚 **Data Structures & Algorithms**
-  - 🤖 Machine Learning: Core ML algorithms, scikit-learn
+  - 🤖 **Machine Learning**: Core ML algorithms, scikit-learn
   -  💻 **Web Development**: HTML, CSS, JavaScript, React.js
+  -  🐍 **Python**: Pandas, NumPy, Matplotlib
 - 🌱 Always curious, building projects, and refining my problem-solving skills
 - 😄 Pronouns: **She/Her**
 - 🎹 Fun Fact: I'm a **Grade 6 certified pianist** from Trinity College London!
@@ -18,6 +18,7 @@
 ### 🛠️ What I'm Working On
 
 - 🤖 **Aasha** – A conversational mental health chatbot with emotion detection & grounding support
+- 📖 **ReadShelf** - A minimal, mood-based reading journal with AI-powered insights
 - 💡 **ML from Scratch** – Rebuilding core machine learning algorithms to master the math + intuition
 - 📈 **LeetCode Tracker** – Logging DSA questions with solutions and patterns
 
