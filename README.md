@@ -56,6 +56,8 @@
 - 🔄 Crack 100+ LeetCode problems 
 - 📚 Finish ML Foundations & scikit-learn
 - 🇯🇵 Clear JLPT N5 in Japanese
+  
+> “code. create. reflect. repeat. ☁️”
 
 
 ### 🌐 Let's Collaborate!
@@ -63,7 +65,7 @@
 If you’re building something meaningful, or just want to learn together – I’m always up for a fun collab 🤝  
 Reach out via [LinkedIn](https://www.linkedin.com/in/anoushka-gupta-331163319/) or drop a message here!
 > "Building thoughtful tech, one project at a time." — Anoushka 💫
-> “code. create. reflect. repeat. ☁️”
+
 
 
 <!---
