@@ -2,16 +2,16 @@
 
 ### 👋 Hi there, I'm Anoushka!
 
-- 🎯 Passionate about **Data Science**, **Full-Stack Development**, and **Machine Learning**
+-  Passionate about **Data Science**, **Full-Stack Development**, and **Machine Learning**
 - 🔍 Currently learning:
-  - 📚 **Data Structures & Algorithms**
-  - 🤖 **Machine Learning**: Core ML algorithms, scikit-learn
-  -  💻 **Web Development**: HTML, CSS, JavaScript, React.js
-  -  🐍 **Python**: Pandas, NumPy, Matplotlib
-- 🌱 Always curious, building projects, and refining my problem-solving skills
-- 😄 Pronouns: **She/Her**
-- 🎹 Fun Fact: I'm a **Grade 6 certified pianist** from Trinity College London!
-- 🤝 Let’s connect on [LinkedIn](https://www.linkedin.com/in/anoushka-gupta-331163319/)
+  -  **Data Structures & Algorithms**
+  -  **Machine Learning**: Core ML algorithms, scikit-learn
+  -   **Web Development**: HTML, CSS, JavaScript, React.js
+  -   **Python**: Pandas, NumPy, Matplotlib
+-  Always curious, building projects, and refining my problem-solving skills
+-  Pronouns: **She/Her**
+-  Fun Fact: I'm a **Grade 6 certified pianist** from Trinity College London!
+-  Let’s connect on [LinkedIn](https://www.linkedin.com/in/anoushka-gupta-331163319/)
 
 ---
 
@@ -52,10 +52,10 @@
 
 ### 🎯 2025 Goals
 
-- ✅ Build 3+ full-stack projects
-- 🔄 Crack 100+ LeetCode problems 
-- 📚 Finish ML Foundations & scikit-learn
-- 🇯🇵 Clear JLPT N5 in Japanese
+-  Build 3+ full-stack projects
+-  Crack 100+ LeetCode problems 
+-  Finish ML Foundations & scikit-learn
+-  Clear JLPT N5 in Japanese
   
 > “code. create. reflect. repeat. ☁️”
 
