@@ -10,7 +10,7 @@
   -   **Python**: Pandas, NumPy, Matplotlib
 -  Always curious, building projects, and refining my problem-solving skills
 -  Pronouns: **She/Her**
--  Fun Fact: I'm a **Grade 6 certified pianist** from Trinity College London!
+-  Fun Fact: I'm a **Grade 8 certified pianist** from Trinity College London!
 -  Let’s connect on [LinkedIn](https://www.linkedin.com/in/anoushka-gupta-331163319/)
 
 ---
