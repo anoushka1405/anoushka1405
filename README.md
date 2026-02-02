@@ -72,10 +72,6 @@
 
 ## 🌟 GitHub Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anoushka1405&theme=tokyonight&hide_border=true" />
-</p>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anoushka1405&theme=tokyo-night&hide_border=true&area=true" />
 
 ---
@@ -86,18 +82,9 @@
 
 ---
 
-## 🎯 2025 Goals
-
-- 🚀 Build **3+ full-stack projects**
-- 🧩 Solve **100+ LeetCode problems**
-- 📘 Complete **ML foundations**
-- 🇯🇵 Clear **JLPT N5**
-
----
-
 ## 🌐 Let’s Connect
 
-If you're building something thoughtful or just learning together — let’s talk 🤍  
+If you're building something thoughtful or just learning together, let’s talk 🤍  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/anoushka-gupta-331163319/)
 - 💬 GitHub messages always open
