@@ -1,18 +1,13 @@
 ![Banner](./banner.png)
 
-
-<!-- ===================== -->
-<!--      PROFILE         -->
-<!-- ===================== -->
-
 <h1 align="center">Hi 👋, I'm Anoushka</h1>
 <h3 align="center">Data Science • Machine Learning • Full-Stack Development</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anoushka-gupta-331163319/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Anoushka%20Gupta-blue?style=flat&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Anoushka%20Gupta-6a5acd?style=flat&logo=linkedin&logoColor=white">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=anoushka1405&label=Profile%20Views&color=6a5acd&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=anoushka1405&label=views&color=6a5acd&style=flat">
 </p>
 
 <p align="center">
@@ -23,48 +18,40 @@
 
 ## 🌱 About Me
 
-- 🎓 Aspiring engineer with a love for **Data Science**, **Machine Learning**, and **Full-Stack Development**
-- 🧠 Curious, consistent, and focused on strong fundamentals
+- 🎓 Student engineer exploring **Data Science**, **Machine Learning**, and **Full-Stack Development**
+- 🧠 Strong believer in fundamentals, consistency, and curiosity
 - 🎹 **Grade 8 certified pianist** (Trinity College London)
 - 😄 Pronouns: **She / Her**
-- 🌸 Inspired by *Kaizen* — small steps, meaningful growth
+- 🌸 Inspired by *Kaizen* — small improvements every day
 
 ---
 
-## 🧠 What I’m Currently Learning
+## 🧠 Currently Learning
 
-**📌 Foundations**
+**Foundations**
 - Data Structures & Algorithms  
-- Problem-solving patterns (LeetCode)
+- LeetCode patterns
 
-**🤖 Machine Learning**
+**Machine Learning**
 - Core ML algorithms  
 - scikit-learn  
-- Implementing ML **from scratch** (math + intuition)
+- ML from scratch (math + intuition)
 
-**🌐 Web Development**
-- HTML, CSS, JavaScript  
-- React.js  
-- Flask
+**Web Development**
+- HTML • CSS • JavaScript  
+- React.js • Flask
 
-**🐍 Python Stack**
+**Python**
 - Pandas • NumPy • Matplotlib  
 
 ---
 
-## 🛠️ Featured Projects
+## 🛠️ Projects
 
-### 🤖 Aasha  
-*Conversational mental-health chatbot with emotion detection and grounding support*
-
-### 📖 ReadShelf  
-*Minimal, mood-based reading journal with AI-powered insights*
-
-### 💡 ML from Scratch  
-*Rebuilding ML algorithms to deeply understand the mathematics*
-
-### 📈 LeetCode Tracker  
-*Tracking DSA problems, solutions, and recurring patterns*
+- 🤖 **Aasha** — Mental health chatbot with emotion detection & grounding
+- 📖 **ReadShelf** — Mood-based reading journal with AI insights
+- 💡 **ML from Scratch** — Rebuilding ML algorithms from the ground up
+- 📈 **LeetCode Tracker** — DSA logging with solutions & patterns
 
 ---
 
@@ -83,21 +70,19 @@
 
 ---
 
-## 🌟 GitHub at a Glance
+## 🌟 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anoushka1405&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=anoushka1405&theme=tokyonight&hide_border=true" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anoushka1405&theme=react-dark&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anoushka1405&theme=tokyo-night&hide_border=true&area=true" />
 
 ---
 
-## 🏆 GitHub Achievements
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anoushka1405&theme=radical&no-frame=true&row=1&column=6" />
-</p>
+![snake](https://raw.githubusercontent.com/anoushka1405/anoushka1405/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -105,33 +90,19 @@
 
 - 🚀 Build **3+ full-stack projects**
 - 🧩 Solve **100+ LeetCode problems**
-- 📘 Complete **ML foundations + scikit-learn**
-- 🇯🇵 Clear **JLPT N5 (Japanese)**
+- 📘 Complete **ML foundations**
+- 🇯🇵 Clear **JLPT N5**
 
 ---
 
-## 🧠 Learning Philosophy
+## 🌐 Let’s Connect
 
-> Start small. Stay consistent.  
-> Build to understand — not just to finish.  
-> Share learnings. Support others.
-
----
-
-## 🌐 Let’s Connect & Collaborate
-
-If you’re building something meaningful — or just learning together — I’m always happy to connect 🤝  
+If you're building something thoughtful or just learning together — let’s talk 🤍  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/anoushka-gupta-331163319/)
-- 💬 Reach out here on GitHub
+- 💬 GitHub messages always open
 
 <p align="center">
   <b>Building thoughtful tech, one project at a time ✨</b>
 </p>
 
----
-
-<!--
-anoushka1405/anoushka1405 is a ✨ special ✨ repository
-because its README.md appears on your GitHub profile.
--->
