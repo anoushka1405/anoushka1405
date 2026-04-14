@@ -1,73 +1,64 @@
 ![Banner](./banner.png)
-
-<h1 align="center">Hi 👋, I'm Anoushka</h1>
-<h3 align="center">Data Science • Machine Learning • Full-Stack Development</h3>
-
+ 
+<h1 align="center">Hi, I'm Anoushka</h1>
+<h3 align="center">Data Science · Machine Learning · LLMs</h3>
+ 
 <p align="center">
   <a href="https://www.linkedin.com/in/anoushka-gupta-331163319/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Anoushka%20Gupta-6a5acd?style=flat&logo=linkedin&logoColor=white">
   </a>
   <img src="https://komarev.com/ghpvc/?username=anoushka1405&label=views&color=6a5acd&style=flat">
 </p>
-
-<p align="center">
-  <i>code • create • reflect • repeat ☁️</i>
-</p>
-
+ 
+<p align="center"><i>code · create · reflect · repeat</i></p>
+ 
 ---
 
-## 🌱 About Me
-
-- 🎓 Student engineer exploring **Data Science**, **Machine Learning**, and **Full-Stack Development**
-- 🧠 Strong believer in fundamentals, consistency, and curiosity
-- 🎹 **Grade 8 certified pianist** (Trinity College London)
-- 😄 Pronouns: **She / Her**
-- 🌸 Inspired by *Kaizen* — small improvements every day
-
+## About me
+ 
+2nd year B.Tech AI & ML student at IGDTUW, Gurgaon · CGPA 9.58
+ 
+I'm focused on data science and AI engineering - building ML pipelines, working with LLMs, and learning to deploy real systems.
+ 
+Grade 8 pianist (Trinity College London, Distinction) · she/her
+ 
 ---
-
-## 🧠 Currently Learning
-
-**Foundations**
-- Data Structures & Algorithms  
-- LeetCode patterns
-
-**Machine Learning**
-- Core ML algorithms  
-- scikit-learn  
-- ML from scratch (math + intuition)
-
-**Web Development**
-- HTML • CSS • JavaScript  
-- React.js • Flask
-
-**Python**
-- Pandas • NumPy • Matplotlib  
-
+ 
+## Skills
+ 
+**Languages** · Python · R · C++
+ 
+**Data & ML** · Pandas · NumPy · Matplotlib · Seaborn · scikit-learn · XGBoost · Tableau
+ 
+**LLMs & AI** · Gemini API · HuggingFace · Prompt engineering · Streamlit
+ 
+**Tools** · Flask · Git · GitHub · Jupyter
+ 
 ---
-
-## 🛠️ Projects
-
-- 🤖 **Aasha** — Mental health chatbot with emotion detection & grounding
-- 📖 **ReadShelf** — Mood-based reading journal with AI insights
-- 💡 **ML from Scratch** — Rebuilding ML algorithms from the ground up
-- 📈 **LeetCode Tracker** — DSA logging with solutions & patterns
-
+## Projects
+ 
+**Song Popularity Prediction** · [Code](https://github.com/anoushka1405) · [Live](https://github.com/anoushka1405)
+ 
+End-to-end ML pipeline for predicting song popularity. Improved from a 57.7% baseline (Logistic Regression) to 77.5% accuracy with XGBoost, achieving 0.859 ROC-AUC. Feature engineering, model comparison, full evaluation.
+ 
+`Python` `Pandas` `XGBoost` `scikit-learn` `Matplotlib`
+ 
 ---
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-</p>
-
+ 
+**Aasha — Conversational Mental Health Chatbot** · [Code](https://github.com/anoushka1405)
+ 
+Custom emotion detection model using keyword analysis and HuggingFace transformers. Prompt-engineered for context-aware, grounded responses.
+ 
+`Python` `HuggingFace` `Flask` `Prompt Engineering`
+ 
+---
+ 
+**ReadShelf — Mindful Reading Web App** · [Code](https://github.com/anoushka1405)
+ 
+Flask-based full-stack app with personalised reading analytics, a Word Vault using the Dictionary API, and a Pomodoro-style reading timer.
+ 
+`Python` `Flask` `JavaScript` `HTML/CSS` `SQLite`
+ 
 ---
 
 ## 🌟 GitHub Activity
