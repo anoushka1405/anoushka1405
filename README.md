@@ -16,7 +16,7 @@
 
 ## About me
  
-2nd year B.Tech AI & ML student at IGDTUW, Gurgaon · CGPA 9.58
+2nd year B.Tech AI & ML student at IGDTUW · CGPA 9.58
  
 I'm focused on data science and AI engineering - building ML pipelines, working with LLMs, and learning to deploy real systems.
  
@@ -45,7 +45,7 @@ End-to-end ML pipeline for predicting song popularity. Improved from a 57.7% bas
  
 ---
  
-**Aasha — Conversational Mental Health Chatbot** · [Code](https://github.com/anoushka1405)
+**Aasha - Conversational Mental Health Chatbot** · [Code](https://github.com/anoushka1405)
  
 Custom emotion detection model using keyword analysis and HuggingFace transformers. Prompt-engineered for context-aware, grounded responses.
  
