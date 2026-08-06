@@ -1,6 +1,5 @@
-![Banner](./banner.png)
- 
-<h1 align="center">Hi, I'm Anoushka</h1>
+
+ <h1 align="center">Hi, I'm Anoushka</h1>
 <h3 align="center">Data Science · Machine Learning · LLMs</h3>
  
 <p align="center">
@@ -16,9 +15,9 @@
 
 ## About me
  
-2nd year B.Tech AI & ML student at IGDTUW · CGPA 9.64
+3rd year B.Tech AI & ML student at IGDTUW · CGPA 9.64
  
-I'm focused on data science and AI engineering - building ML pipelines, working with LLMs, and learning to deploy real systems.
+I am passionate about solving real word problems with technology and apply my skills by creating projects.
  
 Grade 8 pianist (Trinity College London, Distinction) · she/her
  
