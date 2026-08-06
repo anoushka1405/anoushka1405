@@ -1,6 +1,5 @@
 
  <h1 align="center">Hi, I'm Anoushka</h1>
-<h3 align="center">Data Science · Machine Learning · LLMs</h3>
  
 <p align="center">
   <a href="https://www.linkedin.com/in/anoushka-gupta-331163319/" target="_blank">
