@@ -18,7 +18,7 @@
  
 I am passionate about solving real word problems with technology and apply my skills by creating projects.
  
-Grade 8 pianist (Trinity College London, Distinction) · she/her
+Grade 8 pianist (Trinity College London, Distinction) 
  
 ---
  
