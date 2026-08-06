@@ -22,17 +22,6 @@ Grade 8 pianist (Trinity College London, Distinction) · she/her
  
 ---
  
-## Skills
- 
-**Languages** · Python · R · C++
- 
-**Data & ML** · Pandas · NumPy · Matplotlib · Seaborn · scikit-learn · XGBoost · Tableau
- 
-**LLMs & AI** · Gemini API · HuggingFace · Prompt engineering · Streamlit
- 
-**Tools** · Flask · Git · GitHub · Jupyter
- 
----
 ## Projects
  
 **Song Popularity Prediction** · [Code](https://github.com/anoushka1405) · [Live](https://github.com/anoushka1405)
